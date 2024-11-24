@@ -28,7 +28,7 @@ Uma página web inspirada no design da Starbucks, explorando responsividade, int
 Um projeto divertido inspirado em plataformas de streaming, feito com React, explorando hooks e gerenciamento de estado.
 
 📫 Contato
-LinkedIn: Desirée Ferreira
+LinkedIn: https://www.linkedin.com/in/desireeferreira6/
 E-mail: desireecode6@gmail.com
 Sinta-se à vontade para explorar meus repositórios, contribuir ou entrar em contato! 😊
 
