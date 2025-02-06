@@ -2,9 +2,9 @@
 👋 Olá! Seja bem-vindo(a) ao meu GitHub! Sou uma desenvolvedora front-end apaixonada por tecnologia, inovação e design. Aqui, compartilho projetos, aprendizados e experimentos nas áreas de desenvolvimento web e interfaces criativas.
 
 🚀 Sobre mim
-🎓 Graduação: Administração
-💼 Em transição para a área de desenvolvimento front-end, com foco em criar experiências digitais interativas e responsivas.
-🌱 Atualmente, estou aprofundando meus conhecimentos em React e Vue.js.
+🎓 Graduação: Análise e Desenvolvimento de Sistemas
+💼 Desenvolvedora front-end, com foco em criar experiências digitais interativas e responsivas.
+🌱 Atualmente, estou aprofundando meus conhecimentos em fullstake Java.
 
 Adoro transformar ideias em códigos e explorar diferentes tecnologias para resolver problemas e criar soluções que encantam os usuários.
 
