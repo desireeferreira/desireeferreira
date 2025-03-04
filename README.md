@@ -3,7 +3,7 @@
 **`Desenvolvedora FullStack`**
 
 Oi, sou a Desiree! Tenho 31 anos e sou uma apaixonada por tudo que envolve tecnologia. Encontrei minha verdadeira paixão em Front-end e atualmente estou me aventurando no mundo do Desenvolvimento FullStack com Java. Sou daquele tipo que adora um bom desafio e está sempre em busca de aprender algo novo.
-Entre em Contado no Linkedin Desiree Ferreira https://www.linkedin.com/in/desireeferreira6 Gmail: desireecode6@gmail.com .
+Entre em Contato no Linkedin Desiree Ferreira https://www.linkedin.com/in/desireeferreira6 Gmail: desireecode6@gmail.com .
 
 ---
 
