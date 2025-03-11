@@ -80,7 +80,7 @@ Entre em Contado no Linkedin "[Desiree Ferreira] (https://www.linkedin.com/in/de
     align="left" 
     alt="Insomnia" 
     title="Insominia"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"
 />
